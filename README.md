@@ -13,7 +13,7 @@ If you cannot figure out the answer and wish to see what it is select **See Answ
 
 If you are running from the command line use **java -jar "Jumble.jar"**
 
-If you have JRE installed you can double click Jumble.jar
+If you have JRE installed you can **double click Jumble.jar**
 
 
 
