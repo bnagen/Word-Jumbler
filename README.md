@@ -15,6 +15,9 @@ If you are running from the command line use **java -jar "Jumble.jar"**
 
 If you have JRE installed you can **double click Jumble.jar**
 
+Select File - Open and open the .dic file.
+
+
 
 
 # Output
